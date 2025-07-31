@@ -1,0 +1,35 @@
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #000;
+  color: #c0c0c0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.container {
+  text-align: center;
+}
+model-viewer {
+  width: 300px;
+  height: 400px;
+  margin: 20px auto;
+}
+.product-info {
+  background-color: #111;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+}
+.whatsapp {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: #25d366;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}

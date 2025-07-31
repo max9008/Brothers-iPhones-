@@ -1,0 +1,2 @@
+
+import '@google/model-viewer';
